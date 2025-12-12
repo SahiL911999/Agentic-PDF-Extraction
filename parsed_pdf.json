@@ -1,0 +1,338 @@
+[
+  {
+    "id": "4a7ea0d1-82bf-4be9-8bc1-d046ec5a5655",
+    "type": "text",
+    "page": 0,
+    "bounding_box": {
+      "top": 0.14163485169410706,
+      "bottom": 0.33176517486572266,
+      "left": 0.08704474568367004,
+      "right": 0.8900548219680786
+    },
+    "content": "<a id='4a7ea0d1-82bf-4be9-8bc1-d046ec5a5655'></a>\n\nPDF Example\nfor Developers"
+  },
+  {
+    "id": "60380310-eafd-4666-9987-110f421cd7ae",
+    "type": "text",
+    "page": 0,
+    "bounding_box": {
+      "top": 0.6265228986740112,
+      "bottom": 0.7146066427230835,
+      "left": 0.08338415622711182,
+      "right": 0.3687720000743866
+    },
+    "content": "<a id='60380310-eafd-4666-9987-110f421cd7ae'></a>\n\nPrepared By:\nSample Team"
+  },
+  {
+    "id": "8f2a4e08-f480-4b36-986a-9349e1e8f3fa",
+    "type": "text",
+    "page": 0,
+    "bounding_box": {
+      "top": 0.776253342628479,
+      "bottom": 0.8611698150634766,
+      "left": 0.08407601714134216,
+      "right": 0.3921763300895691
+    },
+    "content": "<a id='8f2a4e08-f480-4b36-986a-9349e1e8f3fa'></a>\n\nWebsite:\n<u>sample-files.com</u>"
+  },
+  {
+    "id": "9ba4a72d-c576-4fb0-a743-4efe6b52f794",
+    "type": "text",
+    "page": 1,
+    "bounding_box": {
+      "top": 0.10191147774457932,
+      "bottom": 0.15514208376407623,
+      "left": 0.08513283729553223,
+      "right": 0.8511714935302734
+    },
+    "content": "<a id='9ba4a72d-c576-4fb0-a743-4efe6b52f794'></a>\n\nPDF Example for Developers"
+  },
+  {
+    "id": "8c4c279c-9fb7-40cf-b766-f0de7f3eccc8",
+    "type": "text",
+    "page": 1,
+    "": {
+      "top": 0.18541043996810913,
+      "bottom": 0.3523733615875244,
+      "left": 0.08618688583374023,
+      "right": 0.8575bounding_box683236122131
+    },
+    "content": "<a id='8c4c279c-9fb7-40cf-b766-f0de7f3eccc8'></a>\n\nThis document is designed to showcase\nvarious features available for PDF generation\nand manipulation. It includes formatted text,\ntables, images, hyperlinks, and more."
+  },
+  {
+    "id": "11f838c7-e3de-4b82-bc12-fb261dc657ad",
+    "type": "figure",
+    "page": 1,
+    "bounding_box": {
+      "top": 0.3963777422904968,
+      "bottom": 0.8665046095848083,
+      "left": 0.1886305809020996,
+      "right": 0.8075944185256958
+    },
+    "content": "<a id='11f838c7-e3de-4b82-bc12-fb261dc657ad'></a>\n\n<::An isometric illustration of a person coding at a desk. The person, viewed from behind, is wearing glasses and a purple shirt, sitting on a blue office chair. They are typing on a keyboard in front of a computer monitor that displays lines of code. On the blue desk, there is also a mouse, a coffee mug, and a pen holder. Surrounding the desk and person are various floating 3D-style icons representing programming languages and development concepts: a green block with \"CSS\", a light blue block with \"HTML\", a pink block with gears, a magenta block with \"PHP\", a purple block with angle brackets (code symbol), an orange block with \"Js\", a yellow block with curly braces, a green block with \"C++\", and a yellow block with a magnifying glass. Smaller blue square shapes are scattered throughout the scene.: figure::>"
+  },
+  {
+    "id": "ea76d2d3-24bd-420b-8e6b-5fa535bad31c",
+    "type": "text",
+    "page": 1,
+    "bounding_box": {
+      "top": 0.9056480526924133,
+      "bottom": 0.9313909411430359,
+      "left": 0.08947113156318665,
+      "right": 0.9097236394882202
+    },
+    "content": "<a id='ea76d2d3-24bd-420b-8e6b-5fa535bad31c'></a>\n\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+  },
+  {
+    "id": "89e2cd6d-497f-4980-b435-e3c0aea5f50d",
+    "type": "text",
+    "page": 2,
+    "bounding_box": {
+      "top": 0.09891091287136078,
+      "bottom": 0.15477271378040314,
+      "left": 0.08563768863677979,
+      "right": 0.8518282175064087
+    },
+    "content": "<a id='89e2cd6d-497f-4980-b435-e3c0aea5f50d'></a>\n\nPDF Example for Developers"
+  },
+  {
+    "id": "852c6b84-7b2b-41d0-9bb5-7742a3db14fe",
+    "type": "text",
+    "page": 2,
+    "bounding_box": {
+      "top": 0.182814359664917,
+      "bottom": 0.26765385270118713,
+      "left": 0.08655908703804016,
+      "right": 0.8767651319503784
+    },
+    "content": "<a id='852c6b84-7b2b-41d0-9bb5-7742a3db14fe'></a>\n\n**Bold Text**, *Italicized Text*, and Underlined Text can be used to emphasize content."
+  },
+  {
+    "id": "f4b5418a-b1cf-4d99-bad0-5e99722ee627",
+    "type": "text",
+    "page": 2,
+    "bounding_box": {
+      "top": 0.3025473356246948,
+      "bottom": 0.5418736338615417,
+      "left": 0.08665871620178223,
+      "right": 0.6044291853904724
+    },
+    "content": "<a id='f4b5418a-b1cf-4d99-bad0-5e99722ee627'></a>\n\n**Bullet Points:**\n* Support for styled text\n* Bullet and numbered lists\n* Custom fonts and colors\n* Rich text formatting"
+  },
+  {
+    "id": "64374f45-6839-407b-aa74-ba2c7faf723b",
+    "type": "text",
+    "page": 2,
+    "bounding_box": {
+      "top": 0.5692271590232849,
+      "bottom": 0.810917317867279,
+      "left": 0.08639919757843018,
+      "right": 0.61268550157547
+    },
+    "content": "<a id='64374f45-6839-407b-aa74-ba2c7faf723b'></a>\n\n## Numbered Lists:\n1. Support for styled text\n2. Bullet and numbered lists\n3. Custom fonts and colors\n4. Rich text formatting"
+  },
+  {
+    "id": "ece76d43-2acc-4d5f-9b78-531e5ebd01a5",
+    "type": "text",
+    "page": 2,
+    "bounding_box": {
+      "top": 0.9042717218399048,
+      "bottom": 0.9322154521942139,
+      "left": 0.08878129720687866,
+      "right": 0.910836398601532
+    },
+    "content": "<a id='ece76d43-2acc-4d5f-9b78-531e5ebd01a5'></a>\n\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+  },
+  {
+    "id": "9ba08e4f-d792-46d1-95fc-5b55632e76a4",
+    "type": "text",
+    "page": 3,
+    "bounding_box": {
+      "top": 0.09757614135742188,
+      "bottom": 0.15475422143936157,
+      "left": 0.08630216121673584,
+      "right": 0.7317245602607727
+    },
+    "content": "<a id='9ba08e4f-d792-46d1-95fc-5b55632e76a4'></a>\n\nTables and Data Display"
+  },
+  {
+    "id": "e9a22603-613c-4f0c-8c5e-20b42a8c0f80",
+    "type": "table",
+    "page": 3,
+    "bounding_box": {
+      "top": 0.18722432851791382,
+      "bottom": 0.4142059087753296,
+      "left": 0.09184318780899048,
+      "right": 0.9074381589889526
+    },
+    "content": "<a id='e9a22603-613c-4f0c-8c5e-20b42a8c0f80'></a>\n\n<table id=\"3-1\">\n<tr><td id=\"3-2\">ID</td><td id=\"3-3\">Name</td><td id=\"3-4\">Role</td><td id=\"3-5\">Department</td></tr>\n<tr><td id=\"3-6\">001</td><td id=\"3-7\">John Doe</td><td id=\"3-8\">Developer</td><td id=\"3-9\">Engineering</td></tr>\n<tr><td id=\"3-a\">002</td><td id=\"3-b\">Jane Smith</td><td id=\"3-c\">Designer</td><td id=\"3-d\">Creative</td></tr>\n<tr><td id=\"3-e\">003</td><td id=\"3-f\">Alice Brown</td><td id=\"3-g\">Manager</td><td id=\"3-h\">HR</td></tr>\n</table>"
+  },
+  {
+    "id": "0c17b921-c93a-4c86-9234-6a44e8e0b102",
+    "type": "text",
+    "page": 3,
+    "bounding_box": {
+      "top": 0.450166791677475,
+      "bottom": 0.6546528339385986,
+      "left": 0.08692371845245361,
+      "right": 0.8916907906532288
+    },
+    "content": "<a id='0c17b921-c93a-4c86-9234-6a44e8e0b102'></a>\n\nOfficia veniam nisi quis irure dolore elit tempor\nea aliquip culpa quis ullamco veniam. Minim\ndolore deserunt aliquip laborum culpa mollit\nanim cillum nostrud laborum veniam non\nvoluptate."
+  },
+  {
+    "id": "1066574f-7929-49b4-bb43-e2aafe07b32b",
+    "type": "text",
+    "page": 3,
+    "bounding_box": {
+      "top": 0.6967520713806152,
+      "bottom": 0.8601430654525757,
+      "left": 0.0874156653881073,
+      "right": 0.9006341695785522
+    },
+    "content": "<a id='1066574f-7929-49b4-bb43-e2aafe07b32b'></a>\n\nReprehenderit sit pariatur reprehenderit non\nsint aliqua est reprehenderit. Incididunt\ncommodo enim magna magna ipsum voluptate\naute voluptate."
+  },
+  {
+    "id": "dc113040-901c-4339-aa48-c117f8a8c4e7",
+    "type": "text",
+    "page": 3,
+    "bounding_box": {
+      "top": 0.9049688577651978,
+      "bottom": 0.9315798282623291,
+      "left": 0.09034717082977295,
+      "right": 0.9084697961807251
+    },
+    "content": "<a id='dc113040-901c-4339-aa48-c117f8a8c4e7'></a>\n\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+  },
+  {
+    "id": "d0f33ae5-9cba-4355-abd9-25fbbb0afc4a",
+    "type": "text",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.1023399829864502,
+      "bottom": 0.1527925729751587,
+      "left": 0.08954942226409912,
+      "right": 0.6843122839927673
+    },
+    "content": "<a id='d0f33ae5-9cba-4355-abd9-25fbbb0afc4a'></a>\n\nImages and Hyperlinks"
+  },
+  {
+    "id": "e69adf4f-844f-47b5-ba6e-c28abb2ab17e",
+    "type": "text",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.19033978879451752,
+      "bottom": 0.26686882972717285,
+      "left": 0.08769363164901733,
+      "right": 0.8442071080207825
+    },
+    "content": "<a id='e69adf4f-844f-47b5-ba6e-c28abb2ab17e'></a>\n\nBelow is an example image inserted into the\nPDF:"
+  },
+  {
+    "id": "fe55c212-b5a4-43fa-a37f-57fe3e42ea7c",
+    "type": "figure",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.30762630701065063,
+      "bottom": 0.6053775548934937,
+      "left": 0.0906539261341095,
+      "right": 0.9070067405700684
+    },
+    "content": "<a id='fe55c212-b5a4-43fa-a37f-57fe3e42ea7c'></a>\n\n<::A silhouette of a person's head, facing left, with their chin resting on their hand, suggesting deep thought or contemplation. The right side of the head is overlaid with numerous digital interfaces, data visualizations, and abstract technological elements, including brain scans, network diagrams, charts, and glowing lines. The background is a gradient from light blue to white, with a bright orange glow emanating from the top right, illuminating the digital elements. The overall image conveys concepts of artificial intelligence, data processing, human-computer interaction, or advanced cognitive functions.: figure::>"
+  },
+  {
+    "id": "9b0258ea-8cde-4400-841d-608cbcf79e07",
+    "type": "figure",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.3132101595401764,
+      "bottom": 0.6014499664306641,
+      "left": 0.5382246375083923,
+      "right": 0.9043710827827454
+    },
+    "content": "<a id='9b0258ea-8cde-4400-841d-608cbcf79e07'></a>\n\n<::A silhouette of a person's head, facing right, is filled with an overlay of various digital interface elements, charts, and diagrams. These elements include a stylized brain with connected nodes, bar graphs, line graphs, world maps with data points, circular data displays, and other abstract data visualizations. The background is light, and there's a bright orange glow on the upper left side of the head, suggesting light or energy. The overall impression is one of artificial intelligence, data processing, or complex thought.::>"
+  },
+  {
+    "id": "70a308d2-c610-4e61-8534-fd6280d8c185",
+    "type": "text",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.6425744295120239,
+      "bottom": 0.6811628341674805,
+      "left": 0.08854737877845764,
+      "right": 0.8663078546524048
+    },
+    "content": "<a id='70a308d2-c610-4e61-8534-fd6280d8c185'></a>\n\n*<u>Visit Sample-Files.com for more sample documents.</u>*"
+  },
+  {
+    "id": "b3618935-7212-447a-8dd9-4bbfada63408",
+    "type": "text",
+    "page": 4,
+    "bounding_box": {
+      "top": 0.9058643579483032,
+      "bottom": 0.9309659004211426,
+      "left": 0.08964988589286804,
+      "right": 0.9094802141189575
+    },
+    "content": "<a id='b3618935-7212-447a-8dd9-4bbfada63408'></a>\n\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+  },
+  {
+    "id": "48e7729e-d4f5-47f7-9f29-dfd30d3c849a",
+    "type": "text",
+    "page": 5,
+    "bounding_box": {
+      "top": 0.09067055583000183,
+      "bottom": 0.19101759791374207,
+      "left": 0.08759793639183044,
+      "right": 0.7091602087020874
+    },
+    "content": "<a id='48e7729e-d4f5-47f7-9f29-dfd30d3c849a'></a>\n\nForms and Annotations\nOverview"
+  },
+  {
+    "id": "bb5d0a50-4ac3-460e-8a65-741a9fd83542",
+    "type": "text",
+    "page": 5,
+    "bounding_box": {
+      "top": 0.22529324889183044,
+      "bottom": 0.3336738049983978,
+      "left": 0.0866556465625763,
+      "right": 0.8965630531311035
+    },
+    "content": "<a id='bb5d0a50-4ac3-460e-8a65-741a9fd83542'></a>\n\nForms allow users to input information directly into a PDF\ndocument. Annotations can be used to highlight,\ncomment, or mark up specific sections of the document."
+  },
+  {
+    "id": "9fee48dd-83c0-4be5-a63c-62e0f15937fe",
+    "type": "text",
+    "page": 5,
+    "bounding_box": {
+      "top": 0.37094223499298096,
+      "bottom": 0.6438568830490112,
+      "left": 0.08796903491020203,
+      "right": 0.9079232215881348
+    },
+    "content": "<a id='9fee48dd-83c0-4be5-a63c-62e0f15937fe'></a>\n\nForm Elements:\n\nText Fields\n\n[text input]"
+  },
+  {
+    "id": "356b4b72-6265-487a-8f76-9f67f31bff16",
+    "type": "text",
+    "page": 5,
+    "bounding_box": {
+      "top": 0.6707453727722168,
+      "bottom": 0.878425121307373,
+      "left": 0.08648073673248291,
+      "right": 0.9047451615333557
+    },
+    "content": "<a id='356b4b72-6265-487a-8f76-9f67f31bff16'></a>\n\nCheckboxes option : [ ]\n\nRadio Buttons\noption Yes: [ ]\noption No: [ ]"
+  },
+  {
+    "id": "8b1ca7c0-774f-4589-b086-fb77e3519d0a",
+    "type": "text",
+    "page": 5,
+    "bounding_box": {
+      "top": 0.9039942622184753,
+      "bottom": 0.9336149096488953,
+      "left": 0.088815838098526,
+      "right": 0.9106637239456177
+    },
+    "content": "<a id='8b1ca7c0-774f-4589-b086-fb77e3519d0a'></a>\n\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+  }
+]
